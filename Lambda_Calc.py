@@ -7,3 +7,5 @@ div = lambda x, y: x / y
 diff = lambda x, y: x - y
 
 mod = lambda x, y: x % y
+
+# How to Use:  print(<variable_name>(<arguments>))
